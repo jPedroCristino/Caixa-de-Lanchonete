@@ -7,11 +7,16 @@ Este é um programa simples em C# que calcula o valor total de uma compra em uma
 ## Uso
 O programa solicitará que você insira o código do item e a quantidade desejada. Os códigos e preços dos itens são os seguintes:
 
-Código 1: Item 1 - R$ 4.00
-Código 2: Item 2 - R$ 4.50
-Código 3: Item 3 - R$ 5.00
-Código 4: Item 4 - R$ 2.00
-Código 5: Item 5 - R$ 1.50
+## Preços dos Itens
+
+| Código | Item    | Preço (R$) |
+|--------|---------|------------|
+| 1      | Item 1  | 4.00       |
+| 2      | Item 2  | 4.50       |
+| 3      | Item 3  | 5.00       |
+| 4      | Item 4  | 2.00       |
+| 5      | Item 5  | 1.50       |
+
 Digite os valores no formato código quantidade e pressione Enter.
 
 O programa exibirá o total da compra formatado em reais.
