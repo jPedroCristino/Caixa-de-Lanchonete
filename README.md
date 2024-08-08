@@ -27,4 +27,4 @@ Para executar este programa, você precisa ter o [.NET SDK](https://dotnet.micro
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/lanchonete.git
+   https://github.com/jPedroCristino/Caixa-de-Lanchonete
